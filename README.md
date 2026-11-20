@@ -31,6 +31,10 @@ O projeto utiliza as seguintes camadas:
 - `dto`: representa os dados recebidos nas requisições.
 - `exceptions`: contém exceções de negócio e o tratamento global de erros.
 
+- UML
+  <img width="2060" height="2440" alt="UML" src="https://github.com/user-attachments/assets/3906450a-6603-476e-af36-c48892a3d33d" />
+
+
 ## Regras de negócio
 
 ### Criação da conta
